@@ -76,7 +76,7 @@ Here are some of my milestone projects (to be updated as I progress!):
 
 ## 🚀 Fun Fact
 
-💡 I love music and I plan on intergrating that passion into a an app or wbsite developed by me.
+💡 I love music and I plan on intergrating that passion into a an app or website developed by me.
 
 ---
 
