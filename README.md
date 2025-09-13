@@ -2,13 +2,13 @@
 
 # [LUTJAM25549, Group B, Coach Kieran] Coding Journey: My First Repo 🚀
 
-# 👋 Hi, I'm [Lutho Jama]
+# 👋🏽 Hi, I'm [Lutho Jama]
 
 🌱 Beginner Software Developer | 🚀 Excited to Learn & Build
 
 ---
 
-## 🎯 About Me
+## 👨🏽‍🦱 About Me
 
 - 💡 I'm currently learning version control tools, such as **Git and Github** before diving into coding.
 - 🎓 Soon, I'll be exploring **HTML, CSS, and JavaScript** to build dynamic websites!
@@ -58,7 +58,7 @@ Here are some of my milestone projects (to be updated as I progress!):
 
 ---
 
-## 📚 Learning Goals
+## 🎯 Learning Goals
 
 - 🚀 Get comfortable using Git and GitHub
 - 🎨 Learn HTML, CSS, and JavaScript
